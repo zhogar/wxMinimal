@@ -1,0 +1,2 @@
+# wxMinimal
+Minimal wxWidgets sample
